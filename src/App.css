@@ -101,7 +101,7 @@
         -o-border-radius: 20px;
         background-color: #F3F3F3;
         padding: 15px 20px;
-        height: 180px;
+        height: 225px;
     }
     .box:not(:first-child){
         .text-content{
@@ -136,7 +136,7 @@
             }
         }
         .details{
-            padding-top: 30px;
+            padding-top: 50px;
             color: #494949;
             font-size: 30px;
             font-weight: bold;
