@@ -48,21 +48,24 @@
             }
             button{
                 border: none;
-                color: #FFFFFF;
-                background-color:#5982AB;
+                color: #fff;
+                background-color: #5982ab;
                 -o-border-radius: 25px;
                 -webkit-border-radius: 25px;
                 -moz-border-radius: 25px;
                 -ms-border-radius: 25px;
                 border-radius: 25px;
-                padding: 8px 30px;
+                padding: 8px 40px;
                 outline: none;
                 cursor: pointer;
                 font-family: "Baloo Bhaijaan 2", sans-serif;
                 font-optical-sizing: auto;
-                font-weight: weight;
+                font-weight: bold;
                 font-style: normal;
                 font-size: 20px;
+                @media (max-width: 767px) {
+                    font-size: 16x;
+                }
             }
         }
     }
