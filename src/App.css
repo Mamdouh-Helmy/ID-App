@@ -117,6 +117,7 @@
                     position: relative;
                     z-index: 20;
                     color: #FFFFFF;
+                    font-size: 16px;
                 }
                 &::before {
                     content: "";
