@@ -64,7 +64,7 @@
                 font-style: normal;
                 font-size: 20px;
                 @media (max-width: 767px) {
-                    font-size: 14x;
+                    font-size: 16px;
                     padding: 8px 30px;
                 }
             }
