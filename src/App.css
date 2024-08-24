@@ -26,7 +26,7 @@
             border-radius: 15px;
             @media (max-width: 767px) {
                 width: 100%;
-                margin: 15px auto 10px;
+                margin: 0 auto 10px;
             }
             .icon{
                 color: #878787;
@@ -82,7 +82,7 @@
         align-items: center;
         justify-content: center;
         color: #FFFFFF;
-        font-size: 25px;
+        font-size: 35px;
     }
     .box{
         border-radius: 20px;
