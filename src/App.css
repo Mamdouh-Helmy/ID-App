@@ -39,6 +39,10 @@
                 background: transparent;
                 caret-color: #878787;
                 color: #878787;
+                font-family: "Baloo Bhaijaan 2", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 700;
+                font-style: normal;
                 @media (max-width: 767px) {
                     width: 20%;
                 }
